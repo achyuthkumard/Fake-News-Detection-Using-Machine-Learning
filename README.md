@@ -109,6 +109,11 @@ Models were evaluated using:
 
 ---
 
+<img width="1152" height="598" alt="Screenshot 2026-06-12 160340" src="https://github.com/user-attachments/assets/2bb2174d-5c5a-49ba-8b80-2df5d3b5c0eb" />
+<img width="1196" height="597" alt="Screenshot 2026-06-12 160314" src="https://github.com/user-attachments/assets/910d76a6-6b63-4ae3-8435-86324bb9b2be" />
+
+
+
 ## 📈 Visualizations Included
 
 * Distribution of Fake and Real News
